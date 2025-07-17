@@ -3,14 +3,16 @@ Repo ini berisi implementasi beberapa algoritma Machine Learning yang digunakan 
 
 🔍 Dataset yang Digunakan
 1. Heart Disease Dataset
-    Sumber: [UCI Repository / Kaggle]
+    Sumber: https://archive.ics.uci.edu/dataset/53/iris
+   
     Tujuan: Prediksi kemungkinan seseorang menderita penyakit jantung.
 
-2. Iris Dataset
-    Sumber: [Built-in sklearn dataset]
+3. Iris Dataset
+    Sumber: https://archive.ics.uci.edu/dataset/45/heart+disease
+   
     Tujuan: Klasifikasi jenis bunga iris.
 
-3. Smoking Dataset
+5. Smoking Dataset
     Sumber: [Kaggle]
     Tujuan: Prediksi risiko kesehatan berdasarkan kebiasaan merokok.
 
