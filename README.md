@@ -5,13 +5,13 @@ Repo ini berisi implementasi beberapa algoritma Machine Learning yang digunakan 
 
 1. Heart Disease Dataset
    
-    Sumber: https://archive.ics.uci.edu/dataset/53/iris
+    Sumber: https://archive.ics.uci.edu/dataset/45/heart+disease
    
     Tujuan: Prediksi kemungkinan seseorang menderita penyakit jantung.
 
 2. Iris Dataset
    
-    Sumber: https://archive.ics.uci.edu/dataset/45/heart+disease
+    Sumber: https://archive.ics.uci.edu/dataset/53/iris
    
     Tujuan: Klasifikasi jenis bunga iris.
 
