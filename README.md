@@ -2,18 +2,23 @@ Machine Learning UTS - Informatics
 Repo ini berisi implementasi beberapa algoritma Machine Learning yang digunakan untuk menyelesaikan 3 studi kasus berbeda. Tugas ini disusun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pembelajaran Mesin.
 
 🔍 Dataset yang Digunakan
+
 1. Heart Disease Dataset
+   
     Sumber: https://archive.ics.uci.edu/dataset/53/iris
    
     Tujuan: Prediksi kemungkinan seseorang menderita penyakit jantung.
 
-3. Iris Dataset
+2. Iris Dataset
+   
     Sumber: https://archive.ics.uci.edu/dataset/45/heart+disease
    
     Tujuan: Klasifikasi jenis bunga iris.
 
-5. Smoking Dataset
+3. Smoking Dataset
+   
     Sumber: [Kaggle]
+   
     Tujuan: Prediksi risiko kesehatan berdasarkan kebiasaan merokok.
 
 🧠 Algoritma yang Digunakan
