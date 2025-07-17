@@ -1,0 +1,11 @@
+ID,Umur,Jenis_Kelamin,Batuk_Berkepanjangan,Sesak_Napas,Merokok,Riwayat_Keluarga,Hasil_Rontgen,Diagnosa
+1,45,Pria,Ya,Ya,Ya,Tidak,Tidak_Normal,Ya
+2,30,Wanita,Tidak,Tidak,Tidak,Tidak,Normal,Tidak
+3,60,Pria,Ya,Ya,Ya,Ya,Tidak_Normal,Ya
+4,38,Pria,Ya,Tidak,Tidak,Tidak,Normal,Tidak
+5,52,Wanita,Tidak,Ya,Tidak,Ya,Tidak_Normal,Ya
+6,28,Wanita,Tidak,Tidak,Tidak,Tidak,Normal,Tidak
+7,65,Pria,Ya,Ya,Ya,Ya,Tidak_Normal,Ya
+8,33,Pria,Tidak,Tidak,Ya,Tidak,Normal,Tidak
+9,55,Wanita,Ya,Ya,Tidak,Ya,Tidak_Normal,Ya
+10,40,Pria,Ya,Tidak,Ya,Tidak,Normal,Tidak
